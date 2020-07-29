@@ -2,6 +2,7 @@
 
 Ecommerce made with Angular and Spring 
 
+The SQL files are inside 01-starter-files. 
 
 Backend Browse
   http://localhost:8080/api/
